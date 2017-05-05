@@ -1,0 +1,6 @@
+{
+	"users": [
+  		{"id": "18", "name": "Anwar Hatela", "gender": "Male", "age": 21 },
+  		{"id": "57", "name": "Sakshi Pateli", "gender": "Female", "age": 22 }
+	]
+}
